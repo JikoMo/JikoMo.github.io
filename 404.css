@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #121621;
+    color: #E4ECFA;
+}
+
+#Main {
+    margin: 50px auto;
+    padding: 50px;
+    text-align: center;
+}
+
+#Main span {
+    color: #6C7486;
+}
